@@ -625,7 +625,7 @@ body {
 .course-card .card-title {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+ 
   overflow: hidden;
   margin-block: 15px 8px;
   transition: var(--transition-1);
